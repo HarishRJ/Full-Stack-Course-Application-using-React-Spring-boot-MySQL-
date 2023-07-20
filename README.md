@@ -23,9 +23,9 @@ Frontend implementation using React backend using Spring Boot.
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/HarishRJ/Full-Stack-Course-Application-using-React-Spring-boot-MySQL-/blob/master/Home.png?raw=true"" alt="project-screenshot" width="750" height="420/">
+<img src="https://github.com/HarishRJ/Full-Stack-Course-Application-using-React-Spring-boot-MySQL-/blob/master/Home.png" alt="project-screenshot" width="750" height="420/">
 
-<img src="https://github.com/HarishRJ/Full-Stack-Course-Application-using-React-Spring-boot-MySQL-/blob/master/Add%20courses.png?raw=true"" alt="project-screenshot" width="750" height="420/">
+<img src="https://github.com/HarishRJ/Full-Stack-Course-Application-using-React-Spring-boot-MySQL-/blob/master/Add%20courses.png" alt="project-screenshot" width="750" height="420/">
 
 <img src="https://github.com/HarishRJ/Full-Stack-Course-Application-using-React-Spring-boot-MySQL-/blob/master/View%20courses.png" alt="project-screenshot" width="750" height="420/">
 
