@@ -6,7 +6,7 @@ Frontend implementation using React backend using Spring Boot.
 
 
 <h2>💻 Built with</h2>
-## Tools  & Technologies Used
+# Tools  & Technologies Used
 
 - HTML
 - CSS
